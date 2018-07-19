@@ -28,3 +28,7 @@ input{
 #comicInput {
     width: 1000000px;
 }
+
+#comicBookCovers{
+    width: 500px;
+}
