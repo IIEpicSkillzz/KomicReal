@@ -1,0 +1,39 @@
+#backwards{
+    height: 50px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.container{
+    border-bottom: solid 2px black;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+    margin-bottom: 40px;
+}
+.comicBookCovers{
+    width: 150px;
+    height: 200px;
+}
+#comicResults{
+    text-align: center;
+}
+#resultsName{
+    text-align: center;
+    font-size: 30px;
+}
+#map {
+    
+    width: 50%;
+    height: 450px;
+    background-color: grey;
+    display:inline-block;
+    margin-left:90px;
+    margin-bottom:40px;
+    
+
+  }
+  .MapText{
+      display:inline-block;
+      margin-left:40px;
+  }

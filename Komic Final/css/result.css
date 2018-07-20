@@ -1,0 +1,31 @@
+#backwards{
+    height: 50px;
+    margin-left: 20px;
+    padding-bottom: 10px;
+}
+.container{
+    border-bottom: solid 2px black;
+    margin-top: 15px;
+    margin-left: 0px;
+    margin-right: 0px;
+    display: block;
+    margin-bottom: 40px;
+}
+.comicBookCovers{
+    width: 150px;
+    height: 200px;
+}
+#comicResults{
+    text-align: center;
+}
+#resultsName{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-left:50px;
+
+}
+
+
+
+

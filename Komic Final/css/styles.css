@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/background.png");
+    margin-top: 15%;
+    
+}
+.btn{
+    display: block;
+    margin: auto;
+    padding-left: 8%;
+    padding-right: 8%;
+    background-color:black;
+    border-color: black;
+}
+input{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    max-width: 45%;
+    margin-left: 27.5%;
+}
+.img{
+    height: 170px;
+    width: 350px;
+    display: block;
+    margin: auto;
+    text-align: end;
+    margin-bottom:40px;
+}
+#comicInput {
+    width: 1000000px;
+}
+
+#comicBookCovers{
+    width: 500px;
+}
+
+
